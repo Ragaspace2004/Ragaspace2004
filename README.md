@@ -20,11 +20,10 @@
 
 [<img align="left" alt="Ragapriya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ragapriya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ragapriya | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 [instagram]: https://www.instagram.com/ra9a_v3rv3
 [linkedin]: https://www.linkedin.com/in/ragapriyakarthikeyancybersecuritypythondeveloper
-[gmail]:mail to:ragapriya11235@gmail.com
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
