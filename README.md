@@ -24,7 +24,7 @@
 
 [instagram]: https://www.instagram.com/ra9a_v3rv3
 [linkedin]: https://www.linkedin.com/in/ragapriyakarthikeyancybersecuritypythondeveloper
-[gmail]:ragapriya11235@gmail.com
+[gmail]:mail to:ragapriya11235@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
