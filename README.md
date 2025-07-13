@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Security-Aware Code Review Bot (Flask,GitHub)</b>
-  - GitHub-integrated bot that scans pull requests for security vulnerabilities
+  - [GitHub-integrated bot that scans pull requests for security vulnerabilities](https://github.com/Ragaspace2004/security-code-review-bot)
 - <b> Context-Aware API Security System (Python, Gemini API, MITMProxy, NetworkX) </b>
   -  AI-powered assistant to detect security flaws in API behavior
   -  NLP-driven endpoint mapping with automated anomaly reports 
