@@ -14,7 +14,7 @@
 <h2> 💪 Skills & Tools  </h2>
   
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,java,mysql,mongodb,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,java,mysql,mongodb,linux,github,vscode" />
 </p>
 <h2> 🌐 Connect with me:</h2>
 
